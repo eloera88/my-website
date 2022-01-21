@@ -3,3 +3,7 @@ udemy course
 THIS IS REALLY A WEBSITE
 
 Updates made on master on Github before Rebase
+
+## Purpose
+
+This is just a readme file
